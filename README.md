@@ -1,7 +1,8 @@
-## Hi there! Welcome to my Github Page 👋
+## Greeting! I'm Alan Night (a_nightails) 👋
 
-- 🌱 Currently learning Python and Go from [Boot.dev](https://www.boot.dev/u/a_nightails).
-- 🔭 Working on a budgeting cli tool, using Go.
+- 💻️ I'm currently working on [Leafy](https://github.com/nightails/leafy).
+- 🌱 While horning my skills with [Boot.dev](https://www.boot.dev/u/a_nightails).
+- 🛠️ My langauge of choice is [Go](https://go.dev/), but [Lua](https://www.lua.org/) and [Rust](https://rust-lang.org/) are also on my to-do list.
 
 <!--
 **Nightails/Nightails** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
