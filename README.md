@@ -1,6 +1,6 @@
 ## Greeting! I'm Alan Night (a_nightails) 👋
 
-- 💻️ I'm currently working on [Fireflight](https://github.com/nightails/fireflight).
+- 💻️ I'm currently working on little 2.5D platformer using **Raylib** and **Go**.
 - 🌱 While horning my skills with [Boot.dev](https://www.boot.dev/u/a_nightails).
 - 🛠️ My langauge of choice is [Go](https://go.dev/), but [Lua](https://www.lua.org/) and [Rust](https://rust-lang.org/) are also on my to-do list.
 
