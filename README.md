@@ -2,7 +2,7 @@
 
 - 💻️ I'm currently working on various mini projects.
 - 🌱 While horning my skills with [Boot.dev](https://www.boot.dev/u/a_nightails).
-- 🛠️ My langauge of choice is [Go](https://go.dev/) and [Python](https://www.python.org/).
+- 🛠️ My langauges of choice are [Go](https://go.dev/) and [Python](https://www.python.org/).
 
 Check out my projects below and feel free to connect. 🤗
 
